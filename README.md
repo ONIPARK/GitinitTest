@@ -7,8 +7,5 @@
 
 <code>
   <title>이건 새로운 기능!!</title>
-</head>
-<body>
   <p>충돌이 날 거야...!!!</p>
-</body>
 </code>
